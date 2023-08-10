@@ -79,7 +79,32 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
 -----Home Page With Dark mode------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![image](https://github.com/Randipa/To-Do-APP/assets/96324718/b16d14a5-a599-4e31-911c-97c71882f10c)
 
 -----Menu Bar With Dark mode ------
