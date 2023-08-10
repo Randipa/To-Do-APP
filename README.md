@@ -1,4 +1,4 @@
------Home Page ------
+-----Home Page ------[IPHONE 14 pro Max]
 
 
 
@@ -33,7 +33,42 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 -----Menu Bar ------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![image](https://github.com/Randipa/To-Do-APP/assets/96324718/8347b3a9-b04d-4f17-a994-847a1dfea182)
 
 
