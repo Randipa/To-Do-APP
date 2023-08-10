@@ -26,10 +26,58 @@
 
 
 
+
+
+
+
+
+
+
 -----Menu Bar ------
 ![image](https://github.com/Randipa/To-Do-APP/assets/96324718/8347b3a9-b04d-4f17-a994-847a1dfea182)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![image](https://github.com/Randipa/To-Do-APP/assets/96324718/db73a7a5-046b-40b5-b8e4-bdd8eb96148d)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 -----Home Page With Dark mode------
 ![image](https://github.com/Randipa/To-Do-APP/assets/96324718/b16d14a5-a599-4e31-911c-97c71882f10c)
