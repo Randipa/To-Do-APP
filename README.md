@@ -158,3 +158,10 @@
 
 ![image](https://github.com/Randipa/To-Do-APP/assets/96324718/3526e21c-7e2f-43f4-bbe8-0a6019f32df6)
 
+
+
+----Desktop with Dark mode----
+
+![image](https://github.com/Randipa/To-Do-APP/assets/96324718/4a3189af-1d29-4b91-8ae6-0bb1f0023330)
+
+
