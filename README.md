@@ -1,5 +1,30 @@
 -----Home Page ------
+
+
+
+
+
+
+
+
+
+
+
+
 ![image](https://github.com/Randipa/To-Do-APP/assets/96324718/e1823ef1-354b-4869-be8d-bb216c8013ac)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 -----Menu Bar ------
 ![image](https://github.com/Randipa/To-Do-APP/assets/96324718/8347b3a9-b04d-4f17-a994-847a1dfea182)
