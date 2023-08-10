@@ -1,3 +1,9 @@
+Live App link-
+https://saliyapathum-fusionx.netlify.app
+
+Figma link-
+https://www.figma.com/file/vsLltH0dWLst4jGQnHhPOW/Untitled?type=design&node-id=0%3A1&mode=design&t=PpAzcAUL6Vu2yD5E-1
+
 -----Home Page ------[IPHONE 14 pro Max]
 
 
