@@ -147,3 +147,14 @@
 ![image](https://github.com/Randipa/To-Do-APP/assets/96324718/ad016641-659d-44a2-b5bf-5033bf59f9f3)
 
 ![image](https://github.com/Randipa/To-Do-APP/assets/96324718/c53daee2-4e7d-4ef4-9511-815b7ca46288)
+
+
+
+
+-----Desktop-------
+
+
+
+
+![image](https://github.com/Randipa/To-Do-APP/assets/96324718/3526e21c-7e2f-43f4-bbe8-0a6019f32df6)
+
